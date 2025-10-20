@@ -1,3 +1,6 @@
+<!-- markdownlint-configure-file {"MD041": false} -->
+<!-- markdownlint-configure-file {"MD033": false} -->
+
 ## [YYYY-MM-DD HH:MM GMT+3]
 
 ### <type>(<scope>): <subject> (#N)
