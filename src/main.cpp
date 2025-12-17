@@ -1,6 +1,7 @@
 #include <Arduino.h>
 #include <cd_core/cd_core.hpp>
 #include <cd_hal/cd_hal.hpp>
+#include <headunit_protocol.h>
 #include <rpk_pump/rpk_pump.hpp>
 
 TaskHandle_t rtTaskHandle;
