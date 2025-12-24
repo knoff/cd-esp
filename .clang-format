@@ -1,0 +1,21 @@
+BasedOnStyle: Google
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+ColumnLimit: 120
+AccessModifierOffset: -4
+
+# Скобки
+BreakBeforeBraces: Attach
+AllowShortFunctionsOnASingleLine: Empty
+
+# Выравнивание
+AlignAfterOpenBracket: Align
+AlignOperands: true
+AlignTrailingComments: true
+
+# Указатели и ссылки (BaseManager* mgr, а не BaseManager *mgr)
+PointerAlignment: Left
+
+# Сортировка инклудов (SystemIO.h после CD_Defs.h, но до системных)
+SortIncludes: false
